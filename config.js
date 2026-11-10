@@ -4,5 +4,6 @@ window.CONFIG = {
   logo: "logo.png",
   footerTitle: "Moody",
   footerLine: "Good sweet, good mood",
-  orderIcon: "☕"
+  orderIcon: "☕",
+  branchPay: ["كاش", "تحويل بنكي"]   // طرق الدفع في الفرع (ما فيه شبكة)
 };
