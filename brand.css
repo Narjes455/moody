@@ -1,0 +1,14 @@
+/* 🎨 هوية العميل: الألوان والخطوط. تستخدمها صفحة الزبون وصفحة الإدارة */
+:root{
+  --brand:#b62f26;        /* لون الخلفية الأساسي والعناوين */
+  --brand-deep:#8f2019;   /* درجة أغمق منه للظلال */
+  --card:#e59fc3;         /* لون بطاقة المنيو والأزرار */
+  --card-soft:#f0bfd8;    /* درجة أفتح من البطاقة */
+  --paper:#fff3de;        /* لون لوحة الطلب */
+  --ink:#5a1610;          /* لون النص */
+  --muted:#8a4a46;        /* لون النص الثانوي */
+  --display:"Baloo Bhaijaan 2","IBM Plex Sans Arabic",system-ui,sans-serif;  /* خط العناوين */
+  --body:"IBM Plex Sans Arabic",system-ui,-apple-system,"Segoe UI",Tahoma,sans-serif; /* خط النص */
+  --wave:1;               /* 1 = حواف متموجة للمنيو، 0 = حواف عادية */
+  --ok:#2f7d5b; color-scheme:light;
+}
